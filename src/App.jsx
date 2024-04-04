@@ -5,7 +5,7 @@ import { StudentList } from "./components/StudentList";
 
 const router = createBrowserRouter([
   {
-    path: "/",
+    path: "/student-administration-hp",
     element: <StudentList />,
   }
 ]);
