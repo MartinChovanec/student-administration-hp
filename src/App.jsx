@@ -1,4 +1,4 @@
-import './App.css';
+import './style.css';
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import { StudentList } from "./components/StudentList";
 import { StudentCreateForm } from "./components/StudentCreateForm";
