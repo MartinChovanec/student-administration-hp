@@ -1,2 +1,0 @@
-# student-administration-hp
- 
