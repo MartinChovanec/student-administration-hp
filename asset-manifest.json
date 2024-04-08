@@ -1,15 +1,13 @@
 {
   "files": {
-    "main.css": "/student-administration-hp/static/css/main.95fa68f5.css",
-    "main.js": "/student-administration-hp/static/js/main.054a5e10.js",
-    "static/js/453.440b349c.chunk.js": "/student-administration-hp/static/js/453.440b349c.chunk.js",
+    "main.css": "/student-administration-hp/static/css/main.2acfb0c2.css",
+    "main.js": "/student-administration-hp/static/js/main.651e7950.js",
     "index.html": "/student-administration-hp/index.html",
-    "main.95fa68f5.css.map": "/student-administration-hp/static/css/main.95fa68f5.css.map",
-    "main.054a5e10.js.map": "/student-administration-hp/static/js/main.054a5e10.js.map",
-    "453.440b349c.chunk.js.map": "/student-administration-hp/static/js/453.440b349c.chunk.js.map"
+    "main.2acfb0c2.css.map": "/student-administration-hp/static/css/main.2acfb0c2.css.map",
+    "main.651e7950.js.map": "/student-administration-hp/static/js/main.651e7950.js.map"
   },
   "entrypoints": [
-    "static/css/main.95fa68f5.css",
-    "static/js/main.054a5e10.js"
+    "static/css/main.2acfb0c2.css",
+    "static/js/main.651e7950.js"
   ]
 }
