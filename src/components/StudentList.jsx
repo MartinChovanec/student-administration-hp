@@ -30,9 +30,12 @@ export const StudentList = () => {
         <>
             <h1>List of students </h1>
             {loading ? (
-                <p className="text-loading">
-                    Loading data
-                </p>
+                <div class="d-flex gap-3">
+                    <p>Loading...</p>
+                    <div class="spinner-border" role="status">
+                        <span class="visually-hidden">Loading...</span>
+                    </div>
+                </div>
             ) : null}
             {students.length > 0 ? (
                 <table className="table table-light table-striped table-bordered">
@@ -69,9 +72,11 @@ export const StudentList = () => {
                     </tbody>
                 </table>
             ) : null}
+            {!loading ? (
             <nav>
                 <Link to="/students/create">Create new student</Link>
-            </nav>
+            </nav> 
+            ) : null }
         </>
     );
 };
